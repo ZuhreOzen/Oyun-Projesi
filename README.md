@@ -59,7 +59,7 @@ Bu proje, Python dilinde geliştirilmiştir. Oyunu çalıştırabilmek için aş
 
 3. **Proje Dosyalarını indirin**: Bu projeyi indirip bilgisayarınızda çalıştırabilirsiniz:
    bash
-   git clone https://github.com/Zuhre-23/Oyun-Projesi.git
+   git clone https://github.com/ZuhreOzen/Oyun-Projesi.git
    cd Oyun-Projesi
 
 4. _Oyunu Çalıştırın_
